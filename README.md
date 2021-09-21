@@ -4,7 +4,10 @@
 
 2021-09-16
 
-Uzdevums
+Uzdevums (TO DO)
 
-* Mans Mind Map par Programmēšanu
-* un šīs dienas faili (html, css, JavaScript)
+* Mans Mind Map par Programmēšanu (līdz nākošanai nodarbībai)
+* uzkopēt šīs dienas failus (html, css, JavaScript)
+* Index failā:
+* Pamainīt elementa (p) background platumu. (lietojot DIC elementu)
+* iedarbināt pulksteni (ar JavaScript)
